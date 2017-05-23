@@ -1,0 +1,29 @@
+{
+  "name": "@exo-dev/esformatter-preset-exo",
+  "version": "1.0.0",
+  "description": "Esformatter presset for exo development",
+  "main": "index.js",
+  "dependencies": {
+    "esformatter-align": "^0.2.3",
+    "esformatter-quotes": "^1.1.0",
+    "esformatter-use-strict": "^3.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/exo-dev/esformatter-preset-exo.git"
+  },
+  "keywords": [
+    "esformatter",
+    "preset"
+  ],
+  "author": "EXO DEV",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/exo-dev/esformatter-preset-exo/issues"
+  },
+  "homepage": "https://github.com/exo-dev/esformatter-preset-exo#readme"
+}
