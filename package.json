@@ -1,5 +1,5 @@
 {
-  "name": "@exo-dev/esformatter-preset-exo",
+  "name": "esformatter-preset-exo",
   "version": "1.0.0",
   "description": "Esformatter presset for exo development",
   "main": "index.js",
